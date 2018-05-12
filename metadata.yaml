@@ -1,0 +1,35 @@
+_repo: The-Acts-of-UniformityTheir-Scope-and-Effect_28659
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Lacey, T. A. (Thomas Alexander)
+    alias: Lacey, Thomas Alexander
+    birthdate: 1853
+    deathdate: 1931
+    gutenberg_agent_id: '33475'
+    url: http://www.gutenberg.org/2009/agents/33475
+    wikipedia: https://en.wikipedia.org/wiki/Thomas_Alexander_Lacey
+description: ''
+gutenberg_bookshelf:
+- British Law
+- Canon Law
+gutenberg_issued: '2009-05-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28659'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Ecclesiastical law -- Great Britain -- History'
+- !lcsh 'Great Britain -- Church history'
+- !lcsh 'Church of England. Book of common prayer'
+- !lcsh 'Dissenters, Religious -- Great Britain -- History'
+- !lcc 'BX'
+- !lcsh 'Church of England -- History'
+title: 'The Acts of Uniformity: Their Scope and Effect'
+url: http://www.gutenberg.org/ebooks/28659
